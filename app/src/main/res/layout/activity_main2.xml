@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Module"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tvCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvSem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvCredit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvVenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp">
+    </TextView>
+
+
+</LinearLayout>
